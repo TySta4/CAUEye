@@ -1,7 +1,9 @@
 {
   "name": "CAUEyeView",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "id": "0372b9c0"
 }
